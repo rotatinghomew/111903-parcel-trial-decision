@@ -1,9 +1,37 @@
 """检查合成资料可读。"""
+from collections import Counter, defaultdict
 import json
 from pathlib import Path
 import unittest
 
 class FixtureTest(unittest.TestCase):
+    def test_field_trial_has_both_randomization_levels_and_each_billing_scope(self):
+        data = Path(__file__).parents[1] / "data" / "field_waves.json"
+        field = json.loads(data.read_text(encoding="utf-8"))
+        zones = {row["zone"]: row for row in field["design"]}
+        self.assertEqual(len(zones), len(field["design"]))
+        quotas = defaultdict(Counter)
+        for zone in zones.values():
+            self.assertEqual(len(set(zone["teams"])), 4)
+            self.assertEqual(len(set(zone["treated"])), zone["quota"])
+            self.assertLessEqual(set(zone["treated"]), set(zone["teams"]))
+            quotas[zone["block"]][zone["quota"]] += 1
+        self.assertTrue(all(counts == {1: 2, 3: 2} for counts in quotas.values()))
+        for order in field["orders"]:
+            zone = zones[order["zone"]]
+            self.assertEqual(zone["block"], order["block"])
+            self.assertIn(order["team"], zone["teams"])
+            self.assertEqual(order["choice"] == "combined", order["team"] in zone["treated"])
+        invoices = {row["id"]: row for row in field["invoices"]}
+        for replacement in field["invoice_amendments"]:
+            self.assertEqual(invoices[replacement["supersedes"]]["bill"], replacement["bill"])
+        for look in field["review_plan"]:
+            self.assertLessEqual(set(look["eligible_blocks"]), set(quotas))
+            self.assertEqual(set(look["scope_groups"]), set(field["combo_groups"]))
+        for scope in field["signed_scopes"]:
+            self.assertIn(scope["review"], {row["look"] for row in field["review_plan"]})
+            self.assertLessEqual(set(scope["decision_orders"]), {row["id"] for row in field["orders"]})
+
     def test_sample_is_json_object(self):
         path = Path(__file__).parents[1] / "data" / "sample.json"
         value = json.loads(path.read_text(encoding="utf-8"))
