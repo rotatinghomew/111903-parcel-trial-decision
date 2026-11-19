@@ -1,0 +1,47 @@
+{
+  "assignments": [
+    {
+      "order": "O1",
+      "team": "T1",
+      "group": "G1",
+      "assigned": "split"
+    },
+    {
+      "order": "O2",
+      "team": "T2",
+      "group": "G2",
+      "assigned": "combined"
+    }
+  ],
+  "parcels": [
+    {
+      "order": "O1",
+      "parcel": "P1",
+      "carrier": "C1",
+      "weight": 4.2,
+      "volume": 8.1
+    },
+    {
+      "order": "O2",
+      "parcel": "P2",
+      "carrier": "C1",
+      "weight": 7.4,
+      "volume": 9.2
+    }
+  ],
+  "claims": [
+    {
+      "parcel": "P2",
+      "status": "immature",
+      "days_open": 4
+    }
+  ],
+  "capacity": [
+    {
+      "station": "S1",
+      "date": "2026-10-01",
+      "slots": 12,
+      "reserved": 10
+    }
+  ]
+}
