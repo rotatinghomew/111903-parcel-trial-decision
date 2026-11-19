@@ -1,0 +1,3014 @@
+{
+  "as_of": "2026-09-27",
+  "orders": [
+    {
+      "id": "O000",
+      "block": "N0",
+      "team": "T0",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O000-A",
+        "O000-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-01",
+      "carrier": "C1"
+    },
+    {
+      "id": "O001",
+      "block": "N0",
+      "team": "T0",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O001-A",
+        "O001-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-01",
+      "carrier": "C1"
+    },
+    {
+      "id": "O002",
+      "block": "N0",
+      "team": "T0",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O002-A",
+        "O002-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-01",
+      "carrier": "C1"
+    },
+    {
+      "id": "O010",
+      "block": "N0",
+      "team": "T1",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O010-A",
+        "O010-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-02",
+      "carrier": "C1"
+    },
+    {
+      "id": "O011",
+      "block": "N0",
+      "team": "T1",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O011-A",
+        "O011-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-02",
+      "carrier": "C1"
+    },
+    {
+      "id": "O012",
+      "block": "N0",
+      "team": "T1",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O012-A",
+        "O012-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-02",
+      "carrier": "C1"
+    },
+    {
+      "id": "O020",
+      "block": "N0",
+      "team": "T2",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O020-A",
+        "O020-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-03",
+      "carrier": "C2"
+    },
+    {
+      "id": "O021",
+      "block": "N0",
+      "team": "T2",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O021-A",
+        "O021-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-03",
+      "carrier": "C2"
+    },
+    {
+      "id": "O022",
+      "block": "N0",
+      "team": "T2",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O022-A",
+        "O022-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-03",
+      "carrier": "C2"
+    },
+    {
+      "id": "O030",
+      "block": "N0",
+      "team": "T3",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O030-A",
+        "O030-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-04",
+      "carrier": "C2"
+    },
+    {
+      "id": "O031",
+      "block": "N0",
+      "team": "T3",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O031-A",
+        "O031-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-04",
+      "carrier": "C2"
+    },
+    {
+      "id": "O032",
+      "block": "N0",
+      "team": "T3",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O032-A",
+        "O032-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-04",
+      "carrier": "C2"
+    },
+    {
+      "id": "O100",
+      "block": "N1",
+      "team": "T0",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O100-A",
+        "O100-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-08",
+      "carrier": "C1"
+    },
+    {
+      "id": "O101",
+      "block": "N1",
+      "team": "T0",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O101-A",
+        "O101-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-08",
+      "carrier": "C1"
+    },
+    {
+      "id": "O102",
+      "block": "N1",
+      "team": "T0",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O102-A",
+        "O102-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-08",
+      "carrier": "C1"
+    },
+    {
+      "id": "O110",
+      "block": "N1",
+      "team": "T1",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O110-A",
+        "O110-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-09",
+      "carrier": "C1"
+    },
+    {
+      "id": "O111",
+      "block": "N1",
+      "team": "T1",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O111-A",
+        "O111-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-09",
+      "carrier": "C1"
+    },
+    {
+      "id": "O112",
+      "block": "N1",
+      "team": "T1",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O112-A",
+        "O112-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-09",
+      "carrier": "C1"
+    },
+    {
+      "id": "O120",
+      "block": "N1",
+      "team": "T2",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O120-A",
+        "O120-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-10",
+      "carrier": "C2"
+    },
+    {
+      "id": "O121",
+      "block": "N1",
+      "team": "T2",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O121-A",
+        "O121-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-10",
+      "carrier": "C2"
+    },
+    {
+      "id": "O122",
+      "block": "N1",
+      "team": "T2",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O122-A",
+        "O122-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-10",
+      "carrier": "C2"
+    },
+    {
+      "id": "O130",
+      "block": "N1",
+      "team": "T3",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O130-A",
+        "O130-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-11",
+      "carrier": "C2"
+    },
+    {
+      "id": "O131",
+      "block": "N1",
+      "team": "T3",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O131-A",
+        "O131-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-11",
+      "carrier": "C2"
+    },
+    {
+      "id": "O132",
+      "block": "N1",
+      "team": "T3",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O132-A",
+        "O132-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-11",
+      "carrier": "C2"
+    },
+    {
+      "id": "O200",
+      "block": "N2",
+      "team": "T0",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O200-A",
+        "O200-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-15",
+      "carrier": "C2"
+    },
+    {
+      "id": "O201",
+      "block": "N2",
+      "team": "T0",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O201-A",
+        "O201-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-15",
+      "carrier": "C2"
+    },
+    {
+      "id": "O202",
+      "block": "N2",
+      "team": "T0",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O202-A",
+        "O202-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-15",
+      "carrier": "C2"
+    },
+    {
+      "id": "O210",
+      "block": "N2",
+      "team": "T1",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O210-A",
+        "O210-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-16",
+      "carrier": "C2"
+    },
+    {
+      "id": "O211",
+      "block": "N2",
+      "team": "T1",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O211-A",
+        "O211-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-16",
+      "carrier": "C2"
+    },
+    {
+      "id": "O212",
+      "block": "N2",
+      "team": "T1",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O212-A",
+        "O212-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-16",
+      "carrier": "C2"
+    },
+    {
+      "id": "O220",
+      "block": "N2",
+      "team": "T2",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O220-A",
+        "O220-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-17",
+      "carrier": "C1"
+    },
+    {
+      "id": "O221",
+      "block": "N2",
+      "team": "T2",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O221-A",
+        "O221-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-17",
+      "carrier": "C1"
+    },
+    {
+      "id": "O222",
+      "block": "N2",
+      "team": "T2",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O222-A",
+        "O222-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-17",
+      "carrier": "C1"
+    },
+    {
+      "id": "O230",
+      "block": "N2",
+      "team": "T3",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O230-A",
+        "O230-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-18",
+      "carrier": "C1"
+    },
+    {
+      "id": "O231",
+      "block": "N2",
+      "team": "T3",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O231-A",
+        "O231-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-18",
+      "carrier": "C1"
+    },
+    {
+      "id": "O232",
+      "block": "N2",
+      "team": "T3",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O232-A",
+        "O232-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-18",
+      "carrier": "C1"
+    },
+    {
+      "id": "O300",
+      "block": "N3",
+      "team": "T0",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O300-A",
+        "O300-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-22",
+      "carrier": "C2"
+    },
+    {
+      "id": "O301",
+      "block": "N3",
+      "team": "T0",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O301-A",
+        "O301-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-22",
+      "carrier": "C2"
+    },
+    {
+      "id": "O302",
+      "block": "N3",
+      "team": "T0",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O302-A",
+        "O302-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-22",
+      "carrier": "C2"
+    },
+    {
+      "id": "O310",
+      "block": "N3",
+      "team": "T1",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O310-A",
+        "O310-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-23",
+      "carrier": "C2"
+    },
+    {
+      "id": "O311",
+      "block": "N3",
+      "team": "T1",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O311-A",
+        "O311-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-23",
+      "carrier": "C2"
+    },
+    {
+      "id": "O312",
+      "block": "N3",
+      "team": "T1",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O312-A",
+        "O312-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-23",
+      "carrier": "C2"
+    },
+    {
+      "id": "O320",
+      "block": "N3",
+      "team": "T2",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O320-A",
+        "O320-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-24",
+      "carrier": "C1"
+    },
+    {
+      "id": "O321",
+      "block": "N3",
+      "team": "T2",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O321-A",
+        "O321-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-24",
+      "carrier": "C1"
+    },
+    {
+      "id": "O322",
+      "block": "N3",
+      "team": "T2",
+      "choice": "combined",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O322-A",
+        "O322-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-24",
+      "carrier": "C1"
+    },
+    {
+      "id": "O330",
+      "block": "N3",
+      "team": "T3",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O330-A",
+        "O330-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-25",
+      "carrier": "C1"
+    },
+    {
+      "id": "O331",
+      "block": "N3",
+      "team": "T3",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O331-A",
+        "O331-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-25",
+      "carrier": "C1"
+    },
+    {
+      "id": "O332",
+      "block": "N3",
+      "team": "T3",
+      "choice": "split",
+      "eligible": true,
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "items": [
+        "O332-A",
+        "O332-B"
+      ],
+      "station": "S1",
+      "assigned_at": "2026-09-25",
+      "carrier": "C1"
+    }
+  ],
+  "packages": [
+    {
+      "id": "P000-0",
+      "order": "O000",
+      "items": [
+        "O000-A"
+      ],
+      "bill": "WB-O000",
+      "carrier": "C1",
+      "shipped": "2026-09-02",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-05"
+    },
+    {
+      "id": "P000-1",
+      "order": "O000",
+      "items": [
+        "O000-B"
+      ],
+      "bill": "WB-O000",
+      "carrier": "C1",
+      "shipped": "2026-09-02",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-05"
+    },
+    {
+      "id": "P001-0",
+      "order": "O001",
+      "items": [
+        "O001-A"
+      ],
+      "bill": "WB-O001",
+      "carrier": "C1",
+      "shipped": "2026-09-02",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-05"
+    },
+    {
+      "id": "P001-1",
+      "order": "O001",
+      "items": [
+        "O001-B"
+      ],
+      "bill": "WB-O001",
+      "carrier": "C1",
+      "shipped": "2026-09-02",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-05"
+    },
+    {
+      "id": "P002-0",
+      "order": "O002",
+      "items": [
+        "O002-A"
+      ],
+      "bill": "WB-O002",
+      "carrier": "C1",
+      "shipped": "2026-09-02",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-05"
+    },
+    {
+      "id": "P002-1",
+      "order": "O002",
+      "items": [
+        "O002-B"
+      ],
+      "bill": "WB-O002",
+      "carrier": "C1",
+      "shipped": "2026-09-02",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-05"
+    },
+    {
+      "id": "P010-0",
+      "order": "O010",
+      "items": [
+        "O010-A",
+        "O010-B"
+      ],
+      "bill": "WB-O010",
+      "carrier": "C1",
+      "shipped": "2026-09-03",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-06"
+    },
+    {
+      "id": "P011-0",
+      "order": "O011",
+      "items": [
+        "O011-A",
+        "O011-B"
+      ],
+      "bill": "WB-O011",
+      "carrier": "C1",
+      "shipped": "2026-09-03",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-06"
+    },
+    {
+      "id": "P012-0",
+      "order": "O012",
+      "items": [
+        "O012-A",
+        "O012-B"
+      ],
+      "bill": "WB-O012",
+      "carrier": "C1",
+      "shipped": "2026-09-03",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-06"
+    },
+    {
+      "id": "P020-0",
+      "order": "O020",
+      "items": [
+        "O020-A"
+      ],
+      "bill": "WB-O020",
+      "carrier": "C2",
+      "shipped": "2026-09-04",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-07"
+    },
+    {
+      "id": "P020-1",
+      "order": "O020",
+      "items": [
+        "O020-B"
+      ],
+      "bill": "WB-O020",
+      "carrier": "C2",
+      "shipped": "2026-09-04",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-07"
+    },
+    {
+      "id": "P021-0",
+      "order": "O021",
+      "items": [
+        "O021-A"
+      ],
+      "bill": "WB-O021",
+      "carrier": "C2",
+      "shipped": "2026-09-04",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-07"
+    },
+    {
+      "id": "P021-1",
+      "order": "O021",
+      "items": [
+        "O021-B"
+      ],
+      "bill": "WB-O021",
+      "carrier": "C2",
+      "shipped": "2026-09-04",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-07"
+    },
+    {
+      "id": "P022-0",
+      "order": "O022",
+      "items": [
+        "O022-A"
+      ],
+      "bill": "WB-O022",
+      "carrier": "C2",
+      "shipped": "2026-09-04",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-07"
+    },
+    {
+      "id": "P022-1",
+      "order": "O022",
+      "items": [
+        "O022-B"
+      ],
+      "bill": "WB-O022",
+      "carrier": "C2",
+      "shipped": "2026-09-04",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-07"
+    },
+    {
+      "id": "P030-0",
+      "order": "O030",
+      "items": [
+        "O030-A",
+        "O030-B"
+      ],
+      "bill": "WB-O030",
+      "carrier": "C2",
+      "shipped": "2026-09-05",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-08"
+    },
+    {
+      "id": "P031-0",
+      "order": "O031",
+      "items": [
+        "O031-A"
+      ],
+      "bill": "WB-O031",
+      "carrier": "C2",
+      "shipped": "2026-09-05",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-08"
+    },
+    {
+      "id": "P031-1",
+      "order": "O031",
+      "items": [
+        "O031-B"
+      ],
+      "bill": "WB-O031",
+      "carrier": "C2",
+      "shipped": "2026-09-05",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-08"
+    },
+    {
+      "id": "P032-0",
+      "order": "O032",
+      "items": [
+        "O032-A",
+        "O032-B"
+      ],
+      "bill": "WB-O032",
+      "carrier": "C2",
+      "shipped": "2026-09-05",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-08"
+    },
+    {
+      "id": "P100-0",
+      "order": "O100",
+      "items": [
+        "O100-A",
+        "O100-B"
+      ],
+      "bill": "WB-O100",
+      "carrier": "C1",
+      "shipped": "2026-09-09",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-12"
+    },
+    {
+      "id": "P101-0",
+      "order": "O101",
+      "items": [
+        "O101-A",
+        "O101-B"
+      ],
+      "bill": "WB-O101",
+      "carrier": "C1",
+      "shipped": "2026-09-09",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-12"
+    },
+    {
+      "id": "P102-0",
+      "order": "O102",
+      "items": [
+        "O102-A",
+        "O102-B"
+      ],
+      "bill": "WB-O102",
+      "carrier": "C1",
+      "shipped": "2026-09-09",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-12"
+    },
+    {
+      "id": "P110-0",
+      "order": "O110",
+      "items": [
+        "O110-A"
+      ],
+      "bill": "WB-O110",
+      "carrier": "C1",
+      "shipped": "2026-09-10",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-13"
+    },
+    {
+      "id": "P110-1",
+      "order": "O110",
+      "items": [
+        "O110-B"
+      ],
+      "bill": "WB-O110",
+      "carrier": "C1",
+      "shipped": "2026-09-10",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-13"
+    },
+    {
+      "id": "P111-0",
+      "order": "O111",
+      "items": [
+        "O111-A"
+      ],
+      "bill": "WB-O111",
+      "carrier": "C1",
+      "shipped": "2026-09-10",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-13"
+    },
+    {
+      "id": "P111-1",
+      "order": "O111",
+      "items": [
+        "O111-B"
+      ],
+      "bill": "WB-O111",
+      "carrier": "C1",
+      "shipped": "2026-09-10",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-13"
+    },
+    {
+      "id": "P112-0",
+      "order": "O112",
+      "items": [
+        "O112-A"
+      ],
+      "bill": "WB-O112",
+      "carrier": "C1",
+      "shipped": "2026-09-10",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-13"
+    },
+    {
+      "id": "P112-1",
+      "order": "O112",
+      "items": [
+        "O112-B"
+      ],
+      "bill": "WB-O112",
+      "carrier": "C1",
+      "shipped": "2026-09-10",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-13"
+    },
+    {
+      "id": "P120-0",
+      "order": "O120",
+      "items": [
+        "O120-A",
+        "O120-B"
+      ],
+      "bill": "WB-O120",
+      "carrier": "C2",
+      "shipped": "2026-09-11",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-14"
+    },
+    {
+      "id": "P121-0",
+      "order": "O121",
+      "items": [
+        "O121-A"
+      ],
+      "bill": "WB-O121",
+      "carrier": "C2",
+      "shipped": "2026-09-11",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-14"
+    },
+    {
+      "id": "P121-1",
+      "order": "O121",
+      "items": [
+        "O121-B"
+      ],
+      "bill": "WB-O121",
+      "carrier": "C2",
+      "shipped": "2026-09-11",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-14"
+    },
+    {
+      "id": "P122-0",
+      "order": "O122",
+      "items": [
+        "O122-A",
+        "O122-B"
+      ],
+      "bill": "WB-O122",
+      "carrier": "C2",
+      "shipped": "2026-09-11",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-14"
+    },
+    {
+      "id": "P130-0",
+      "order": "O130",
+      "items": [
+        "O130-A"
+      ],
+      "bill": "WB-O130",
+      "carrier": "C2",
+      "shipped": "2026-09-12",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-15"
+    },
+    {
+      "id": "P130-1",
+      "order": "O130",
+      "items": [
+        "O130-B"
+      ],
+      "bill": "WB-O130",
+      "carrier": "C2",
+      "shipped": "2026-09-12",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-15"
+    },
+    {
+      "id": "P131-0",
+      "order": "O131",
+      "items": [
+        "O131-A"
+      ],
+      "bill": "WB-O131",
+      "carrier": "C2",
+      "shipped": "2026-09-12",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-15"
+    },
+    {
+      "id": "P131-1",
+      "order": "O131",
+      "items": [
+        "O131-B"
+      ],
+      "bill": "WB-O131",
+      "carrier": "C2",
+      "shipped": "2026-09-12",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-15"
+    },
+    {
+      "id": "P132-0",
+      "order": "O132",
+      "items": [
+        "O132-A"
+      ],
+      "bill": "WB-O132",
+      "carrier": "C2",
+      "shipped": "2026-09-12",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-15"
+    },
+    {
+      "id": "P132-1",
+      "order": "O132",
+      "items": [
+        "O132-B"
+      ],
+      "bill": "WB-O132",
+      "carrier": "C2",
+      "shipped": "2026-09-12",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-15"
+    },
+    {
+      "id": "P200-0",
+      "order": "O200",
+      "items": [
+        "O200-A"
+      ],
+      "bill": "WB-O200",
+      "carrier": "C2",
+      "shipped": "2026-09-16",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-19"
+    },
+    {
+      "id": "P200-1",
+      "order": "O200",
+      "items": [
+        "O200-B"
+      ],
+      "bill": "WB-O200",
+      "carrier": "C2",
+      "shipped": "2026-09-16",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-19"
+    },
+    {
+      "id": "P201-0",
+      "order": "O201",
+      "items": [
+        "O201-A"
+      ],
+      "bill": "WB-O201",
+      "carrier": "C2",
+      "shipped": "2026-09-16",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-19"
+    },
+    {
+      "id": "P201-1",
+      "order": "O201",
+      "items": [
+        "O201-B"
+      ],
+      "bill": "WB-O201",
+      "carrier": "C2",
+      "shipped": "2026-09-16",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-19"
+    },
+    {
+      "id": "P202-0",
+      "order": "O202",
+      "items": [
+        "O202-A"
+      ],
+      "bill": "WB-O202",
+      "carrier": "C2",
+      "shipped": "2026-09-16",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-19"
+    },
+    {
+      "id": "P202-1",
+      "order": "O202",
+      "items": [
+        "O202-B"
+      ],
+      "bill": "WB-O202",
+      "carrier": "C2",
+      "shipped": "2026-09-16",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-19"
+    },
+    {
+      "id": "P210-0",
+      "order": "O210",
+      "items": [
+        "O210-A",
+        "O210-B"
+      ],
+      "bill": "WB-O210",
+      "carrier": "C2",
+      "shipped": "2026-09-17",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-20"
+    },
+    {
+      "id": "P211-0",
+      "order": "O211",
+      "items": [
+        "O211-A"
+      ],
+      "bill": "WB-O211",
+      "carrier": "C2",
+      "shipped": "2026-09-17",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-20"
+    },
+    {
+      "id": "P211-1",
+      "order": "O211",
+      "items": [
+        "O211-B"
+      ],
+      "bill": "WB-O211",
+      "carrier": "C2",
+      "shipped": "2026-09-17",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-20"
+    },
+    {
+      "id": "P212-0",
+      "order": "O212",
+      "items": [
+        "O212-A",
+        "O212-B"
+      ],
+      "bill": "WB-O212",
+      "carrier": "C2",
+      "shipped": "2026-09-17",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-20"
+    },
+    {
+      "id": "P220-0",
+      "order": "O220",
+      "items": [
+        "O220-A"
+      ],
+      "bill": "WB-O220",
+      "carrier": "C1",
+      "shipped": "2026-09-18",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-21"
+    },
+    {
+      "id": "P220-1",
+      "order": "O220",
+      "items": [
+        "O220-B"
+      ],
+      "bill": "WB-O220",
+      "carrier": "C1",
+      "shipped": "2026-09-18",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-21"
+    },
+    {
+      "id": "P221-0",
+      "order": "O221",
+      "items": [
+        "O221-A"
+      ],
+      "bill": "WB-O221",
+      "carrier": "C1",
+      "shipped": "2026-09-18",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-21"
+    },
+    {
+      "id": "P221-1",
+      "order": "O221",
+      "items": [
+        "O221-B"
+      ],
+      "bill": "WB-O221",
+      "carrier": "C1",
+      "shipped": "2026-09-18",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-21"
+    },
+    {
+      "id": "P222-0",
+      "order": "O222",
+      "items": [
+        "O222-A"
+      ],
+      "bill": "WB-O222",
+      "carrier": "C1",
+      "shipped": "2026-09-18",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-21"
+    },
+    {
+      "id": "P222-1",
+      "order": "O222",
+      "items": [
+        "O222-B"
+      ],
+      "bill": "WB-O222",
+      "carrier": "C1",
+      "shipped": "2026-09-18",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-21"
+    },
+    {
+      "id": "P230-0",
+      "order": "O230",
+      "items": [
+        "O230-A",
+        "O230-B"
+      ],
+      "bill": "WB-O230",
+      "carrier": "C1",
+      "shipped": "2026-09-19",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-22"
+    },
+    {
+      "id": "P231-0",
+      "order": "O231",
+      "items": [
+        "O231-A",
+        "O231-B"
+      ],
+      "bill": "WB-O231",
+      "carrier": "C1",
+      "shipped": "2026-09-19",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-22"
+    },
+    {
+      "id": "P232-0",
+      "order": "O232",
+      "items": [
+        "O232-A",
+        "O232-B"
+      ],
+      "bill": "WB-O232",
+      "carrier": "C1",
+      "shipped": "2026-09-19",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-22"
+    },
+    {
+      "id": "P300-0",
+      "order": "O300",
+      "items": [
+        "O300-A",
+        "O300-B"
+      ],
+      "bill": "WB-O300",
+      "carrier": "C2",
+      "shipped": "2026-09-23",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-26"
+    },
+    {
+      "id": "P301-0",
+      "order": "O301",
+      "items": [
+        "O301-A"
+      ],
+      "bill": "WB-O301",
+      "carrier": "C2",
+      "shipped": "2026-09-23",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-26"
+    },
+    {
+      "id": "P301-1",
+      "order": "O301",
+      "items": [
+        "O301-B"
+      ],
+      "bill": "WB-O301",
+      "carrier": "C2",
+      "shipped": "2026-09-23",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-26"
+    },
+    {
+      "id": "P302-0",
+      "order": "O302",
+      "items": [
+        "O302-A",
+        "O302-B"
+      ],
+      "bill": "WB-O302",
+      "carrier": "C2",
+      "shipped": "2026-09-23",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-26"
+    },
+    {
+      "id": "P310-0",
+      "order": "O310",
+      "items": [
+        "O310-A"
+      ],
+      "bill": "WB-O310",
+      "carrier": "C2",
+      "shipped": "2026-09-24",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-27"
+    },
+    {
+      "id": "P310-1",
+      "order": "O310",
+      "items": [
+        "O310-B"
+      ],
+      "bill": "WB-O310",
+      "carrier": "C2",
+      "shipped": "2026-09-24",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-27"
+    },
+    {
+      "id": "P311-0",
+      "order": "O311",
+      "items": [
+        "O311-A"
+      ],
+      "bill": "WB-O311",
+      "carrier": "C2",
+      "shipped": "2026-09-24",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-27"
+    },
+    {
+      "id": "P311-1",
+      "order": "O311",
+      "items": [
+        "O311-B"
+      ],
+      "bill": "WB-O311",
+      "carrier": "C2",
+      "shipped": "2026-09-24",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-27"
+    },
+    {
+      "id": "P312-0",
+      "order": "O312",
+      "items": [
+        "O312-A"
+      ],
+      "bill": "WB-O312",
+      "carrier": "C2",
+      "shipped": "2026-09-24",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-27"
+    },
+    {
+      "id": "P312-1",
+      "order": "O312",
+      "items": [
+        "O312-B"
+      ],
+      "bill": "WB-O312",
+      "carrier": "C2",
+      "shipped": "2026-09-24",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-27"
+    },
+    {
+      "id": "P320-0",
+      "order": "O320",
+      "items": [
+        "O320-A",
+        "O320-B"
+      ],
+      "bill": "WB-O320",
+      "carrier": "C1",
+      "shipped": "2026-09-25",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-28"
+    },
+    {
+      "id": "P321-0",
+      "order": "O321",
+      "items": [
+        "O321-A",
+        "O321-B"
+      ],
+      "bill": "WB-O321",
+      "carrier": "C1",
+      "shipped": "2026-09-25",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-28"
+    },
+    {
+      "id": "P322-0",
+      "order": "O322",
+      "items": [
+        "O322-A",
+        "O322-B"
+      ],
+      "bill": "WB-O322",
+      "carrier": "C1",
+      "shipped": "2026-09-25",
+      "weight_kg": 2.59,
+      "size_cm": [
+        32,
+        25,
+        32
+      ],
+      "delivered": "2026-09-28"
+    },
+    {
+      "id": "P330-0",
+      "order": "O330",
+      "items": [
+        "O330-A"
+      ],
+      "bill": "WB-O330",
+      "carrier": "C1",
+      "shipped": "2026-09-26",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-29"
+    },
+    {
+      "id": "P330-1",
+      "order": "O330",
+      "items": [
+        "O330-B"
+      ],
+      "bill": "WB-O330",
+      "carrier": "C1",
+      "shipped": "2026-09-26",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-29"
+    },
+    {
+      "id": "P331-0",
+      "order": "O331",
+      "items": [
+        "O331-A"
+      ],
+      "bill": "WB-O331",
+      "carrier": "C1",
+      "shipped": "2026-09-26",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-29"
+    },
+    {
+      "id": "P331-1",
+      "order": "O331",
+      "items": [
+        "O331-B"
+      ],
+      "bill": "WB-O331",
+      "carrier": "C1",
+      "shipped": "2026-09-26",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-29"
+    },
+    {
+      "id": "P332-0",
+      "order": "O332",
+      "items": [
+        "O332-A"
+      ],
+      "bill": "WB-O332",
+      "carrier": "C1",
+      "shipped": "2026-09-26",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-29"
+    },
+    {
+      "id": "P332-1",
+      "order": "O332",
+      "items": [
+        "O332-B"
+      ],
+      "bill": "WB-O332",
+      "carrier": "C1",
+      "shipped": "2026-09-26",
+      "weight_kg": 1.77,
+      "size_cm": [
+        32,
+        25,
+        22
+      ],
+      "delivered": "2026-09-29"
+    }
+  ],
+  "invoices": [
+    {
+      "id": "IV-O000",
+      "bill": "WB-O000",
+      "amount_minor": 580,
+      "charged_on": "2026-09-03"
+    },
+    {
+      "id": "IV-O001",
+      "bill": "WB-O001",
+      "amount_minor": 590,
+      "charged_on": "2026-09-03"
+    },
+    {
+      "id": "IV-O002",
+      "bill": "WB-O002",
+      "amount_minor": 600,
+      "charged_on": "2026-09-03"
+    },
+    {
+      "id": "IV-O010",
+      "bill": "WB-O010",
+      "amount_minor": 540,
+      "charged_on": "2026-09-04"
+    },
+    {
+      "id": "IV-O011",
+      "bill": "WB-O011",
+      "amount_minor": 550,
+      "charged_on": "2026-09-04"
+    },
+    {
+      "id": "IV-O012",
+      "bill": "WB-O012",
+      "amount_minor": 560,
+      "charged_on": "2026-09-04"
+    },
+    {
+      "id": "IV-O020",
+      "bill": "WB-O020",
+      "amount_minor": 600,
+      "charged_on": "2026-09-05"
+    },
+    {
+      "id": "IV-O021",
+      "bill": "WB-O021",
+      "amount_minor": 610,
+      "charged_on": "2026-09-05"
+    },
+    {
+      "id": "IV-O022",
+      "bill": "WB-O022",
+      "amount_minor": 620,
+      "charged_on": "2026-09-05"
+    },
+    {
+      "id": "IV-O030",
+      "bill": "WB-O030",
+      "amount_minor": 560,
+      "charged_on": "2026-09-06"
+    },
+    {
+      "id": "IV-O031",
+      "bill": "WB-O031",
+      "amount_minor": 610,
+      "charged_on": "2026-09-06"
+    },
+    {
+      "id": "IV-O032",
+      "bill": "WB-O032",
+      "amount_minor": 580,
+      "charged_on": "2026-09-06"
+    },
+    {
+      "id": "IV-O100",
+      "bill": "WB-O100",
+      "amount_minor": 540,
+      "charged_on": "2026-09-10"
+    },
+    {
+      "id": "IV-O101",
+      "bill": "WB-O101",
+      "amount_minor": 550,
+      "charged_on": "2026-09-10"
+    },
+    {
+      "id": "IV-O102",
+      "bill": "WB-O102",
+      "amount_minor": 560,
+      "charged_on": "2026-09-10"
+    },
+    {
+      "id": "IV-O110",
+      "bill": "WB-O110",
+      "amount_minor": 580,
+      "charged_on": "2026-09-11"
+    },
+    {
+      "id": "IV-O111",
+      "bill": "WB-O111",
+      "amount_minor": 590,
+      "charged_on": "2026-09-11"
+    },
+    {
+      "id": "IV-O112",
+      "bill": "WB-O112",
+      "amount_minor": 600,
+      "charged_on": "2026-09-11"
+    },
+    {
+      "id": "IV-O120",
+      "bill": "WB-O120",
+      "amount_minor": 560,
+      "charged_on": "2026-09-12"
+    },
+    {
+      "id": "IV-O121",
+      "bill": "WB-O121",
+      "amount_minor": 610,
+      "charged_on": "2026-09-12"
+    },
+    {
+      "id": "IV-O122",
+      "bill": "WB-O122",
+      "amount_minor": 580,
+      "charged_on": "2026-09-12"
+    },
+    {
+      "id": "IV-O130",
+      "bill": "WB-O130",
+      "amount_minor": 600,
+      "charged_on": "2026-09-13"
+    },
+    {
+      "id": "IV-O131",
+      "bill": "WB-O131",
+      "amount_minor": 610,
+      "charged_on": "2026-09-13"
+    },
+    {
+      "id": "IV-O132",
+      "bill": "WB-O132",
+      "amount_minor": 620,
+      "charged_on": "2026-09-13"
+    },
+    {
+      "id": "IV-O200",
+      "bill": "WB-O200",
+      "amount_minor": 600,
+      "charged_on": "2026-09-17"
+    },
+    {
+      "id": "IV-O201",
+      "bill": "WB-O201",
+      "amount_minor": 610,
+      "charged_on": "2026-09-17"
+    },
+    {
+      "id": "IV-O202",
+      "bill": "WB-O202",
+      "amount_minor": 620,
+      "charged_on": "2026-09-17"
+    },
+    {
+      "id": "IV-O210",
+      "bill": "WB-O210",
+      "amount_minor": 560,
+      "charged_on": "2026-09-18"
+    },
+    {
+      "id": "IV-O211",
+      "bill": "WB-O211",
+      "amount_minor": 610,
+      "charged_on": "2026-09-18"
+    },
+    {
+      "id": "IV-O212",
+      "bill": "WB-O212",
+      "amount_minor": 580,
+      "charged_on": "2026-09-18"
+    },
+    {
+      "id": "IV-O220",
+      "bill": "WB-O220",
+      "amount_minor": 580,
+      "charged_on": "2026-09-19"
+    },
+    {
+      "id": "IV-O221",
+      "bill": "WB-O221",
+      "amount_minor": 590,
+      "charged_on": "2026-09-19"
+    },
+    {
+      "id": "IV-O222",
+      "bill": "WB-O222",
+      "amount_minor": 600,
+      "charged_on": "2026-09-19"
+    },
+    {
+      "id": "IV-O230",
+      "bill": "WB-O230",
+      "amount_minor": 540,
+      "charged_on": "2026-09-20"
+    },
+    {
+      "id": "IV-O231",
+      "bill": "WB-O231",
+      "amount_minor": 550,
+      "charged_on": "2026-09-20"
+    },
+    {
+      "id": "IV-O232",
+      "bill": "WB-O232",
+      "amount_minor": 560,
+      "charged_on": "2026-09-20"
+    },
+    {
+      "id": "IV-O300",
+      "bill": "WB-O300",
+      "amount_minor": 560,
+      "charged_on": "2026-09-24"
+    },
+    {
+      "id": "IV-O301",
+      "bill": "WB-O301",
+      "amount_minor": 610,
+      "charged_on": "2026-09-24"
+    },
+    {
+      "id": "IV-O302",
+      "bill": "WB-O302",
+      "amount_minor": 580,
+      "charged_on": "2026-09-24"
+    },
+    {
+      "id": "IV-O310",
+      "bill": "WB-O310",
+      "amount_minor": 600,
+      "charged_on": "2026-09-25"
+    },
+    {
+      "id": "IV-O311",
+      "bill": "WB-O311",
+      "amount_minor": 610,
+      "charged_on": "2026-09-25"
+    },
+    {
+      "id": "IV-O312",
+      "bill": "WB-O312",
+      "amount_minor": 620,
+      "charged_on": "2026-09-25"
+    },
+    {
+      "id": "IV-O320",
+      "bill": "WB-O320",
+      "amount_minor": 540,
+      "charged_on": "2026-09-26"
+    },
+    {
+      "id": "IV-O321",
+      "bill": "WB-O321",
+      "amount_minor": 550,
+      "charged_on": "2026-09-26"
+    },
+    {
+      "id": "IV-O322",
+      "bill": "WB-O322",
+      "amount_minor": 560,
+      "charged_on": "2026-09-26"
+    },
+    {
+      "id": "IV-O330",
+      "bill": "WB-O330",
+      "amount_minor": 580,
+      "charged_on": "2026-09-27"
+    },
+    {
+      "id": "IV-O331",
+      "bill": "WB-O331",
+      "amount_minor": 590,
+      "charged_on": "2026-09-27"
+    },
+    {
+      "id": "IV-O332",
+      "bill": "WB-O332",
+      "amount_minor": 600,
+      "charged_on": "2026-09-27"
+    }
+  ],
+  "claim_closures": [
+    {
+      "id": "R-O000",
+      "bill": "WB-O000",
+      "covered": [
+        "O000-A",
+        "O000-B"
+      ],
+      "closed_on": "2026-09-12",
+      "status": "complete"
+    },
+    {
+      "id": "R-O001",
+      "bill": "WB-O001",
+      "covered": [
+        "O001-A"
+      ],
+      "closed_on": "2026-09-12",
+      "status": "complete"
+    },
+    {
+      "id": "R-O002",
+      "bill": "WB-O002",
+      "covered": [
+        "O002-A",
+        "O002-B"
+      ],
+      "closed_on": "2026-09-12",
+      "status": "complete"
+    },
+    {
+      "id": "R-O010",
+      "bill": "WB-O010",
+      "covered": [
+        "O010-A",
+        "O010-B"
+      ],
+      "closed_on": "2026-09-13",
+      "status": "complete"
+    },
+    {
+      "id": "R-O011",
+      "bill": "WB-O011",
+      "covered": [
+        "O011-A"
+      ],
+      "closed_on": "2026-09-13",
+      "status": "complete"
+    },
+    {
+      "id": "R-O012",
+      "bill": "WB-O012",
+      "covered": [
+        "O012-A",
+        "O012-B"
+      ],
+      "closed_on": "2026-09-13",
+      "status": "complete"
+    },
+    {
+      "id": "R-O020",
+      "bill": "WB-O020",
+      "covered": [
+        "O020-A",
+        "O020-B"
+      ],
+      "closed_on": "2026-09-14",
+      "status": "complete"
+    },
+    {
+      "id": "R-O021",
+      "bill": "WB-O021",
+      "covered": [
+        "O021-A"
+      ],
+      "closed_on": "2026-09-14",
+      "status": "complete"
+    },
+    {
+      "id": "R-O022",
+      "bill": "WB-O022",
+      "covered": [
+        "O022-A",
+        "O022-B"
+      ],
+      "closed_on": "2026-09-14",
+      "status": "complete"
+    },
+    {
+      "id": "R-O030",
+      "bill": "WB-O030",
+      "covered": [
+        "O030-A",
+        "O030-B"
+      ],
+      "closed_on": "2026-09-15",
+      "status": "complete"
+    },
+    {
+      "id": "R-O031",
+      "bill": "WB-O031",
+      "covered": [
+        "O031-A"
+      ],
+      "closed_on": "2026-09-15",
+      "status": "complete"
+    },
+    {
+      "id": "R-O032",
+      "bill": "WB-O032",
+      "covered": [
+        "O032-A",
+        "O032-B"
+      ],
+      "closed_on": "2026-09-15",
+      "status": "complete"
+    },
+    {
+      "id": "R-O100",
+      "bill": "WB-O100",
+      "covered": [
+        "O100-A",
+        "O100-B"
+      ],
+      "closed_on": "2026-09-19",
+      "status": "complete"
+    },
+    {
+      "id": "R-O101",
+      "bill": "WB-O101",
+      "covered": [
+        "O101-A"
+      ],
+      "closed_on": "2026-09-19",
+      "status": "complete"
+    },
+    {
+      "id": "R-O102",
+      "bill": "WB-O102",
+      "covered": [
+        "O102-A",
+        "O102-B"
+      ],
+      "closed_on": "2026-09-19",
+      "status": "complete"
+    },
+    {
+      "id": "R-O110",
+      "bill": "WB-O110",
+      "covered": [
+        "O110-A",
+        "O110-B"
+      ],
+      "closed_on": "2026-09-20",
+      "status": "complete"
+    },
+    {
+      "id": "R-O111",
+      "bill": "WB-O111",
+      "covered": [
+        "O111-A"
+      ],
+      "closed_on": "2026-09-20",
+      "status": "complete"
+    },
+    {
+      "id": "R-O112",
+      "bill": "WB-O112",
+      "covered": [
+        "O112-A",
+        "O112-B"
+      ],
+      "closed_on": "2026-09-20",
+      "status": "complete"
+    },
+    {
+      "id": "R-O120",
+      "bill": "WB-O120",
+      "covered": [
+        "O120-A",
+        "O120-B"
+      ],
+      "closed_on": "2026-09-21",
+      "status": "complete"
+    },
+    {
+      "id": "R-O121",
+      "bill": "WB-O121",
+      "covered": [
+        "O121-A"
+      ],
+      "closed_on": "2026-09-21",
+      "status": "complete"
+    },
+    {
+      "id": "R-O122",
+      "bill": "WB-O122",
+      "covered": [
+        "O122-A",
+        "O122-B"
+      ],
+      "closed_on": "2026-09-21",
+      "status": "complete"
+    },
+    {
+      "id": "R-O130",
+      "bill": "WB-O130",
+      "covered": [
+        "O130-A",
+        "O130-B"
+      ],
+      "closed_on": "2026-09-22",
+      "status": "complete"
+    },
+    {
+      "id": "R-O131",
+      "bill": "WB-O131",
+      "covered": [
+        "O131-A"
+      ],
+      "closed_on": "2026-09-22",
+      "status": "complete"
+    },
+    {
+      "id": "R-O132",
+      "bill": "WB-O132",
+      "covered": [
+        "O132-A",
+        "O132-B"
+      ],
+      "closed_on": "2026-09-22",
+      "status": "complete"
+    },
+    {
+      "id": "R-O200",
+      "bill": "WB-O200",
+      "covered": [
+        "O200-A",
+        "O200-B"
+      ],
+      "closed_on": "2026-09-26",
+      "status": "complete"
+    },
+    {
+      "id": "R-O201",
+      "bill": "WB-O201",
+      "covered": [
+        "O201-A"
+      ],
+      "closed_on": "2026-09-26",
+      "status": "complete"
+    },
+    {
+      "id": "R-O210",
+      "bill": "WB-O210",
+      "covered": [
+        "O210-A",
+        "O210-B"
+      ],
+      "closed_on": "2026-09-27",
+      "status": "complete"
+    },
+    {
+      "id": "R-O211",
+      "bill": "WB-O211",
+      "covered": [
+        "O211-A"
+      ],
+      "closed_on": "2026-09-27",
+      "status": "complete"
+    },
+    {
+      "id": "R-O220",
+      "bill": "WB-O220",
+      "covered": [
+        "O220-A",
+        "O220-B"
+      ],
+      "closed_on": "2026-09-28",
+      "status": "complete"
+    },
+    {
+      "id": "R-O221",
+      "bill": "WB-O221",
+      "covered": [
+        "O221-A"
+      ],
+      "closed_on": "2026-09-28",
+      "status": "complete"
+    },
+    {
+      "id": "R-O230",
+      "bill": "WB-O230",
+      "covered": [
+        "O230-A",
+        "O230-B"
+      ],
+      "closed_on": "2026-09-29",
+      "status": "complete"
+    },
+    {
+      "id": "R-O231",
+      "bill": "WB-O231",
+      "covered": [
+        "O231-A"
+      ],
+      "closed_on": "2026-09-29",
+      "status": "complete"
+    },
+    {
+      "id": "R-O300",
+      "bill": "WB-O300",
+      "covered": [
+        "O300-A",
+        "O300-B"
+      ],
+      "closed_on": "2026-10-03",
+      "status": "complete"
+    },
+    {
+      "id": "R-O301",
+      "bill": "WB-O301",
+      "covered": [
+        "O301-A"
+      ],
+      "closed_on": "2026-10-03",
+      "status": "complete"
+    },
+    {
+      "id": "R-O310",
+      "bill": "WB-O310",
+      "covered": [
+        "O310-A",
+        "O310-B"
+      ],
+      "closed_on": "2026-10-04",
+      "status": "complete"
+    },
+    {
+      "id": "R-O311",
+      "bill": "WB-O311",
+      "covered": [
+        "O311-A"
+      ],
+      "closed_on": "2026-10-04",
+      "status": "complete"
+    },
+    {
+      "id": "R-O320",
+      "bill": "WB-O320",
+      "covered": [
+        "O320-A",
+        "O320-B"
+      ],
+      "closed_on": "2026-10-05",
+      "status": "complete"
+    },
+    {
+      "id": "R-O321",
+      "bill": "WB-O321",
+      "covered": [
+        "O321-A"
+      ],
+      "closed_on": "2026-10-05",
+      "status": "complete"
+    },
+    {
+      "id": "R-O330",
+      "bill": "WB-O330",
+      "covered": [
+        "O330-A",
+        "O330-B"
+      ],
+      "closed_on": "2026-10-06",
+      "status": "complete"
+    },
+    {
+      "id": "R-O331",
+      "bill": "WB-O331",
+      "covered": [
+        "O331-A"
+      ],
+      "closed_on": "2026-10-06",
+      "status": "complete"
+    }
+  ],
+  "claim_events": [
+    {
+      "id": "CL1",
+      "bill": "WB-O300",
+      "items": [
+        "O300-A"
+      ],
+      "reported": "2026-09-28",
+      "adjudicated": "2026-09-30"
+    },
+    {
+      "id": "CL2",
+      "bill": "WB-O100",
+      "items": null,
+      "reported": "2026-09-14",
+      "adjudicated": null
+    }
+  ],
+  "invoice_amendments": [
+    {
+      "id": "COR1",
+      "supersedes": "IV-O300",
+      "bill": "WB-O300",
+      "amount_minor": 730,
+      "charged_on": "2026-09-29"
+    }
+  ],
+  "tariffs": [
+    {
+      "carrier": "C1",
+      "from_day": "2026-09-01",
+      "to_day": "2026-09-16",
+      "divisor_cm3_kg": 5000,
+      "billing_unit": "waybill",
+      "brackets_minor": [
+        [
+          2,
+          500
+        ],
+        [
+          4,
+          620
+        ],
+        [
+          8,
+          790
+        ]
+      ]
+    },
+    {
+      "carrier": "C1",
+      "from_day": "2026-09-17",
+      "to_day": "2026-10-30",
+      "divisor_cm3_kg": 5000,
+      "billing_unit": "waybill",
+      "brackets_minor": [
+        [
+          2,
+          530
+        ],
+        [
+          4,
+          700
+        ],
+        [
+          8,
+          880
+        ]
+      ]
+    },
+    {
+      "carrier": "C2",
+      "from_day": "2026-09-01",
+      "to_day": "2026-10-30",
+      "divisor_cm3_kg": 6000,
+      "billing_unit": "parcel",
+      "brackets_minor": [
+        [
+          2,
+          480
+        ],
+        [
+          4,
+          590
+        ],
+        [
+          8,
+          830
+        ]
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "K1",
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "station": "S1",
+      "carrier": "C1",
+      "weekday": "三",
+      "workbench": "W1",
+      "carton": "B32",
+      "projected_orders": 18,
+      "damage_rate_limit": 0.08
+    },
+    {
+      "id": "K2",
+      "combo": [
+        "灯座",
+        "玻璃罩"
+      ],
+      "station": "S1",
+      "carrier": "C2",
+      "weekday": "三",
+      "workbench": "W1",
+      "carton": "B32",
+      "projected_orders": 13,
+      "damage_rate_limit": 0.08
+    }
+  ],
+  "available": [
+    {
+      "station": "S1",
+      "workbench": "W1",
+      "carton": "B32",
+      "date": "2026-10-07",
+      "slots": 25,
+      "carton_qty": 25
+    }
+  ],
+  "pilot_bookings": [
+    {
+      "id": "B1",
+      "team": "T1",
+      "workbench": "W1",
+      "carton": "B32",
+      "date": "2026-10-07",
+      "slots": 6,
+      "confirmed": true
+    }
+  ],
+  "signed_scopes": [
+    {
+      "id": "SCOPE1",
+      "issued": "2026-09-27",
+      "candidate": "K1",
+      "decision_orders": [
+        "O200",
+        "O201",
+        "O300"
+      ]
+    }
+  ]
+}
